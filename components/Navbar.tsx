@@ -3,7 +3,7 @@ export default function Navbar() {
   return (
     <nav className= " h-16 items-center bg-transparent text-white flex justify-between px-4">
        
-       <div className="logo font-bold">GetMEAChai!</div>
+       <div className="logo font-bold text-xl">GetMEAChai!</div>
        
         <ul className="flex justify-between gap-4">
             <li>Home</li>
